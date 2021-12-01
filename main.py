@@ -7,6 +7,7 @@ import json
 headers = {
 
 }
+# Тут будут загалови сайта
 
 
 def get_art_urls(url):
